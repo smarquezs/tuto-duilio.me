@@ -6,4 +6,7 @@ class WelcomeController < ApplicationController
 
   end
 
+  def create
+
+  end
 end
