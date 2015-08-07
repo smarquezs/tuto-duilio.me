@@ -12,6 +12,11 @@ class WelcomeController < ApplicationController
 
   def method
     # add several changes
+    # end
+  end
+
+  def second_method
+    # add several changes
   end
 end
 
