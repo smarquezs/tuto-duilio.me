@@ -9,4 +9,10 @@ class WelcomeController < ApplicationController
   def create
 
   end
+
+  def method
+    # add several changes
+  end
 end
+
+
