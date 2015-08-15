@@ -18,6 +18,11 @@ class WelcomeController < ApplicationController
   def second_method
     # add several changes
   end
+
+  def other_method
+    # this is a complex method
+  end
+
 end
 
 
